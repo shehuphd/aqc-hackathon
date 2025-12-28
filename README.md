@@ -1,5 +1,6 @@
 ﻿# aqc-hackathon
 
+Access the Colab notebook [here](https://colab.research.google.com/drive/1QYMdiAY7yfpPI6iaBXpyNrLU_9pytog3).
 ---
 
 ## What this repository is
@@ -73,4 +74,5 @@ This is not:
 Read it top to bottom. Each cell builds on the previous one. The quantum step only makes sense once the classical setup, scoring logic, and constraints are clear (and have been run in sequence).
 
 Contact/queries: Mo Shehu — mo@shehudev.com.
+
 
