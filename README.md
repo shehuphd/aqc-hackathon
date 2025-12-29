@@ -13,8 +13,6 @@ The challenge frames portfolio selection as a binary optimisation problem under 
 
 ## The core idea
 
-Rather than jumping straight into a large quantum optimisation problem, the notebook follows a **hybrid, data-first approach**:
-
 * Define the portfolio problem cleanly and explicitly.
 * Enforce constraints early and visibly.
 * Use classical heuristics and scoring to narrow the search space.
@@ -74,5 +72,6 @@ This is not:
 Read it top to bottom. Each cell builds on the previous one. The quantum step only makes sense once the classical setup, scoring logic, and constraints are clear (and have been run in sequence).
 
 Contact/queries: Mo Shehu — mo@shehudev.com.
+
 
 
